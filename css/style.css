@@ -1,0 +1,16 @@
+.tropics-image {
+    background-image: url("../images/tropics_background.jpg");
+    background-size: cover;
+}
+
+.content {
+    background-color: white;
+    padding: 30px;
+}
+
+.image-content {
+    background-image: url("../images/desk_photo.jpg");
+    background-color: black;
+    padding: 30px;
+
+}
