@@ -7,7 +7,7 @@ const meta = {
 const introdata = {
     title: "I’m Drew Maracle",
     animated: {
-        first: "I love critical thinking",
+        first: "I love critical thinking!!!!!!!",
         second: "I code for statistical analysis",
         third: "I develop full stack programs (Web/Python)",
     },
