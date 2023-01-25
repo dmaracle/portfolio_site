@@ -7,7 +7,7 @@ const meta = {
 const introdata = {
     title: "I’m Drew Maracle",
     animated: {
-        first: "I love critical thinking!!!!!!!",
+        first: "I love critical thinking!",
         second: "I code for statistical analysis",
         third: "I develop full stack programs (Web/Python)",
     },
@@ -16,23 +16,23 @@ const introdata = {
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "About my self",
+    aboutme: "I grew up on Coronado Island and I have been a very competitive athlete in all sports that I've played. After college I wasn't sure what I wanted to do but I had a love for computers. When I moved back home to San Diego I thought I wanted to be a developer so I taught myself those skills. During this journey I found data analytics and once I started investing my time in that I knew becoming a Data Scientist was my dream.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "Partner",
+        where: "Maracle Window Cleaning",
+        date: "2021-2023",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
+        jobtitle: "Manager",
+        where: "Maracle Window Cleaning",
+        date: "2019-2021",
     },
     {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        jobtitle: "Guest Services - Valet",
+        where: "The Broadmoor",
+        date: "2016-2019",
     },
 ];
 
@@ -41,11 +41,11 @@ const skills = [{
         value: 90,
     },
     {
-        name: "Djano",
+        name: "Tableu",
         value: 85,
     },
     {
-        name: "Javascript",
+        name: "Web Dev",
         value: 80,
     },
     {
