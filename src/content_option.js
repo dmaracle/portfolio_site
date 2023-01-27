@@ -1,14 +1,14 @@
 const logotext = "DREW";
 const meta = {
     title: "Drew Maracle",
-    description: "I’m Drew Maracle aspiring data scientist _ Full stack devloper,currently working in San Diego",
+    description: "I’m Drew Maracle an aspiring data scientist - Full stack developer, currently living in San Diego",
 };
 
 const introdata = {
     title: "I’m Drew Maracle",
     animated: {
         first: "I love critical thinking!",
-        second: "I code for statistical analysis",
+        second: "I code for statistical data analysis",
         third: "I develop full stack programs (Web/Python)",
     },
     description: "Born and raised in San Diego I am excited to start a career in Data Analytics! ",
@@ -37,24 +37,24 @@ const worktimeline = [{
 ];
 
 const skills = [{
-        name: "Python",
-        value: 90,
-    },
-    {
-        name: "Tableu",
+        name: "General Programming",
         value: 85,
     },
     {
-        name: "Web Dev",
+        name: "Data Visualization",
         value: 80,
     },
     {
-        name: "React",
-        value: 60,
+        name: "Critical Thinking",
+        value: 100,
     },
     {
-        name: "Jquery",
-        value: 85,
+        name: "Team Work",
+        value: 100,
+    },
+    {
+        name: "Confidence",
+        value: 100,
     },
 ];
 
@@ -74,17 +74,17 @@ const services = [{
 
 const dataportfolio = [{
         img: "https://picsum.photos/400/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        desctiption: "Project Placeholder #1",
         link: "#",
     },
     {
         img: "https://picsum.photos/400/800/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        desctiption: "Project Placeholder #2",
         link: "#",
     },
     {
         img: "https://picsum.photos/400/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        desctiption: "Project Placeholder #3",
         link: "#",
     },
 ];
