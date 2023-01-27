@@ -59,16 +59,16 @@ const skills = [{
 ];
 
 const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Data Analytics Case Studies",
+        description: "Study data sets relevant to problems that require data-driven decision making.",
     },
     {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Full Stack Python Dev",
+        description: "Create front end and back end programs if needed to support findings.",
     },
     {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Visual Design",
+        description: "Share data through the art of visualization.",
     },
 ];
 
@@ -101,10 +101,9 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/dmaracle",
+    facebook: "https://www.facebook.com/drew.maracle",
+    linkedin: "https://www.linkedin.com/in/drew-maracle-b9972794/",
 };
 export {
     meta,
