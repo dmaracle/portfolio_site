@@ -4,7 +4,7 @@ import { Helmet, HelmetProvider } from "react-helmet-async";
 import Typewriter from "typewriter-effect";
 import { introdata, meta } from "../../content_option";
 import { Link } from "react-router-dom";
-import tennis_img from 'images/assets/tennis_img.jpg';
+import tennis_img from '../../assets/images/tennis_img.jpg';
 
 export const Home = () => {
   return (
